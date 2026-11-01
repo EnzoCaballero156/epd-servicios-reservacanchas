@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "3KrO+vgT1ww=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enzoc\\Downloads\\ReservaCanchasMySQL\\ReservaCanchasMySQL\\ReservaCanchas\\ReservaCanchas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enzoc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\enzoc\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\enzoc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\enzoc\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\enzoc\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\enzoc\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\enzoc\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\enzoc\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MySqlConnector' 2.4.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "C:\\Users\\enzoc\\Downloads\\ReservaCanchasMySQL\\ReservaCanchasMySQL\\ReservaCanchas\\ReservaCanchas.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\enzoc\\Downloads\\ReservaCanchasMySQL\\ReservaCanchasMySQL\\ReservaCanchas\\ReservaCanchas.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
