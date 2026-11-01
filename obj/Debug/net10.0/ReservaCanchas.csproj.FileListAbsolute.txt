@@ -242,3 +242,5 @@ C:\Users\enzoc\Downloads\ReservaCanchasMySQL\ReservaCanchasMySQL\ReservaCanchas\
 C:\Users\enzoc\Downloads\ReservaCanchasMySQL\ReservaCanchasMySQL\ReservaCanchas\obj\Debug\net10.0\ReservaCanchas.pdb
 C:\Users\enzoc\Downloads\ReservaCanchasMySQL\ReservaCanchasMySQL\ReservaCanchas\obj\Debug\net10.0\ReservaCanchas.genruntimeconfig.cache
 C:\Users\enzoc\Downloads\ReservaCanchasMySQL\ReservaCanchasMySQL\ReservaCanchas\obj\Debug\net10.0\ref\ReservaCanchas.dll
+C:\Users\enzoc\Downloads\ReservaCanchasMySQL\ReservaCanchasMySQL\ReservaCanchas\bin\Debug\net10.0\ReservaCanchas.postman_collection.json
+C:\Users\enzoc\Downloads\ReservaCanchasMySQL\ReservaCanchasMySQL\ReservaCanchas\obj\Debug\net10.0\ReservaCanchas.sourcelink.json
